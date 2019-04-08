@@ -1,0 +1,9 @@
+#x= str(234)
+#y=["green", "yellow", "blue"]
+#print(x)
+#x = int(input("Please enter age:"))
+#if x > 60:
+#    print("you're old")
+#else:
+#    print("you're not old")
+# calculates if you are eligible for pension
