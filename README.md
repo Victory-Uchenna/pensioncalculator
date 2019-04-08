@@ -1,2 +1,2 @@
 # pensioncalculator
-pension calculater
+pension calculator
