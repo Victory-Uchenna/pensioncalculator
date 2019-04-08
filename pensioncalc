@@ -1,0 +1,8 @@
+age = int(input("please enter age:"))
+def pensionCalc():
+    if age > 66:
+        print("you're qualified for pension! YAAY")
+    else:
+        print("you're not qualified for pension. sorry")
+
+pensionCalc()
